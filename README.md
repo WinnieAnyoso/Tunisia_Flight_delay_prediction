@@ -9,7 +9,7 @@ Open the notebook using the Google Colaboratory link provided, copy it on your d
 ## Installation
 Install Python and it's libraries.
 
-Link to dataset[https://www.kaggle.com/jeremynjonge/kopacsv]
+Link to dataset[https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2]
 
 ## Contributing
 This Project was done by Winnie Anyoso.
